@@ -1,3 +1,4 @@
+PROMPT='[%n@%m %~]$ '
 
 # alias
 alias vim='nvim'
